@@ -3,7 +3,7 @@
 # Crear una cuenta en GitHub y subir el archivo .py o .ipynb
 Objetivo:
 
-# El objetivo de esta tarea es que aprenda a crear un repositorio en GitHub y subir la práctica python. Este proceso es esencial para la gestión de proyectos y el uso de control de versiones en sus desarrollos.
+El objetivo de esta tarea es que aprenda a crear un repositorio en GitHub y subir la práctica python. Este proceso es esencial para la gestión de proyectos y el uso de control de versiones en sus desarrollos.
 
 # Instrucciones:
 Crear una cuenta en GitHub:
